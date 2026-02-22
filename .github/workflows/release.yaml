@@ -64,11 +64,11 @@ jobs:
         run: hugo
 
       - name: Build the Docker image
-        run: docker build . --file Dockerfile --tag martynvandijke/vandijke.xyz:latest
+        run: docker build . --file Dockerfile --tag karijndt/denteuling:latest
 
       - name: Push Docker image
         run: |
           docker push martynvandijke/vandijke.xyz:latest
           echo "Pushing versioned tag: ${{ steps.version.outputs.version }}"
-          docker tag martynvandijke/vandijke.xyz:latest martynvandijke/vandijke.xyz:${{ steps.version.outputs.version }}
-          docker push martynvandijke/vandijke.xyz:${{ steps.version.outputs.version }}
+          docker tag karijndt/denteuling:latest:latest karijndt/denteuling:latest:${{ steps.version.outputs.version }}
+          docker push karijndt/denteuling:latest:${{ steps.version.outputs.version }}

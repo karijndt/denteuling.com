@@ -16,7 +16,7 @@
   "rebaseWhen": "conflicted",
   "configMigration": true,
   "repositories": [
-    "martynvdijke/vandijke.xyz"
+    "karijndt/denteuling.com"
   ],
   "timezone": "UTC+1",
   "lockFileMaintenance": {
