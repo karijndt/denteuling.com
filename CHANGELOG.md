@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/karijndt/denteuling.com/compare/v1.0.16...v1.1.0) (2026-05-03)
+
+
+### Features
+
+* eigen website ([4525b89](https://github.com/karijndt/denteuling.com/commit/4525b89190babc26ba2a5f5cc967af2e6d48f416))
+
 ## [1.0.16](https://github.com/karijndt/denteuling.com/compare/v1.0.15...v1.0.16) (2026-05-03)
 
 ## [1.0.15](https://github.com/karijndt/denteuling.com/compare/v1.0.14...v1.0.15) (2026-05-01)
