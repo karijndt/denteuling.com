@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/karijndt/denteuling.com/compare/v1.1.0...v1.1.1) (2026-05-03)
+
+
+### Bug Fixes
+
+* release ([f16ffec](https://github.com/karijndt/denteuling.com/commit/f16ffec1b78d28f06b295c0c2071e66217b10bc2))
+
 # [1.1.0](https://github.com/karijndt/denteuling.com/compare/v1.0.16...v1.1.0) (2026-05-03)
 
 
