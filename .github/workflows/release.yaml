@@ -68,7 +68,7 @@ jobs:
 
       - name: Push Docker image
         run: |
-          docker push martynvandijke/vandijke.xyz:latest
+          docker push karijndt/denteuling:latest
           echo "Pushing versioned tag: ${{ steps.version.outputs.version }}"
           docker tag karijndt/denteuling:latest:latest karijndt/denteuling:latest:${{ steps.version.outputs.version }}
           docker push karijndt/denteuling:latest:${{ steps.version.outputs.version }}
