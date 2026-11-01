@@ -1,3 +1,5 @@
+## [1.1.35](https://github.com/karijndt/denteuling.com/compare/v1.1.34...v1.1.35) (2026-11-01)
+
 ## [1.1.34](https://github.com/karijndt/denteuling.com/compare/v1.1.33...v1.1.34) (2026-10-29)
 
 ## [1.1.33](https://github.com/karijndt/denteuling.com/compare/v1.1.32...v1.1.33) (2026-10-27)
