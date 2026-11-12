@@ -8,7 +8,9 @@
     "group:allNonMajor"
   ],
   "automergeType": "pr",
-  "dependencyDashboard": true,
+  "dependencyDashboard": {
+    "enabled": true
+  },
   "platform": "github",
   "platformAutomerge": true,
   "prCreation": "immediate",
